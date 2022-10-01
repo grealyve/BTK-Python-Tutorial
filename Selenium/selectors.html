@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        #header {
+            font-size: 45px;
+            color: red;
+        }
+
+        .course h2 {
+                color: blue;
+        }
+
+        .course.angular {
+                background-color: yellow;
+        }
+
+
+        #username {
+            padding: 10px;
+        }
+
+        input[type="text"] {
+            padding: 30px;
+        }
+
+        input[type="password"] {
+            padding: 20px;
+        }
+
+        #submit {
+            color: pink;
+        }
+
+        .note {
+            padding: 5px;
+            color: cyan;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="container">
+        <h1 id="header">Kurslar</h1>
+        <hr>
+        <div class="course python">
+            <h2>Python Kursu</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, temporibus?</p>
+        </div>
+        <div class="course angular">
+            <h2>Angular Kursu</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, temporibus?</p>
+        </div>
+        <div class="course javascript">
+            <h2>JavaScript Kursu</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, temporibus?</p>
+        </div>
+
+
+        <div>
+            <form>
+                Username: <input type="text" name="username" id="username"><br>
+                Password: <input type="password" name="password" id="password"><br>
+                <input type="submit" value="Login" id="submit">
+            </form>
+        </div>
+
+        <div class="note">
+            <h2>Not: Atadığın id sadece tek bir elemanda olmalı!
+                Not2: Ortak özellik atamak istersen class ları kullan!
+            </h2>
+        </div>
+    </div>
+
+</body>
+</html>
+

@@ -1,0 +1,16 @@
+0000000001,Beden,Sinan Canan,F,1
+0000000002,İlişkiler,Sinan Canan,F,0
+0000000003,Pia Mater,Serkan Karaismailoğlu,T,5
+0000000004,Dura Mater,Serkan Karaismailoğlu,T,4
+0000000005,Arachnoid Mater,Serkan Karaismailoğlu,T,1
+0000000006,Beden Ve Ben,Ali Nazik,F,0
+0000000007,Beden Ve Bed,Jack Shortname,T,0
+0000000008,Pia Ve Temet Nosce,Ben Nickelson,F,0
+0000000009,Beyaz Zambaklar Ülkesinde,Grigory Petrov,F,0
+0000000010,Puslu Kıtalar Atlası,İhsan Oktay Anar,F,0
+0000000011,Bir Hanımefendinin Portresi,Henry James,F,0
+0000000012,Genç Werther'in Acıları,Goethe,F,0
+0000000013,Kürk Mantolu Madonna,Sabahattin Ali,F,7
+0000000014,Nietzsche Ağladığında,Ivan David Yalom,F,9
+0000000015,Sofie'nin Dünyası,Jostein Gaarder,F,0
+0000000016,Budala,Dostoyevski,T,1
